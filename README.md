@@ -1,4 +1,4 @@
-# LLM Provider Comparison Guide
+# Invoke different LLM Providers Guide
 
 This project helps you learn how to invoke different Large Language Model (LLM) providers/models through a Jupyter notebook.
 
